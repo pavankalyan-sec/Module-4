@@ -27,6 +27,7 @@ print(f"Operation Result: {result}")
 ~~~
 
 ## Output
+<img width="780" height="306" alt="image" src="https://github.com/user-attachments/assets/4cd3a68c-c308-421c-beb7-f64b3dd70ea6" />
 
 ## Result
 Thus the program has beeen executed successfully.

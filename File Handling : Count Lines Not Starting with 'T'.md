@@ -25,6 +25,7 @@ count_non_T_lines('story.txt')
 ~~~
 
 ## Output
+<img width="464" height="106" alt="image" src="https://github.com/user-attachments/assets/eb94b697-182b-4beb-bb70-955b1b20bcab" />
 
 ## Result
 Thus, the program has been executed successfully.

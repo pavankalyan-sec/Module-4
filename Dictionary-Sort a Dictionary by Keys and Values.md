@@ -44,7 +44,6 @@ sorted_by_keys_dict = dict(sorted_by_keys_list)
 sorted_by_values_list = sorted(data.items(), key=lambda item: item[1])
 sorted_by_values_dict = dict(sorted_by_values_list)
 
-print("--- Dictionary Sorting Program ---")
 print(f"1. Original Dictionary: {data}")
 
 print("\n2. Sorted by Keys (Alphabetical Order):")
@@ -55,6 +54,7 @@ print(f"   {sorted_by_values_dict}")
 ~~~
 
 ## Sample Output
+<img width="757" height="467" alt="image" src="https://github.com/user-attachments/assets/fd664d5f-5eae-407f-b785-3b0cbf6dbd41" />
 
 ## Result
 Thus , the program has been executed successfully.

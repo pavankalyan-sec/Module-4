@@ -26,6 +26,7 @@ print(f"The area of the circle with radius {r} is {result:.2f}")
 ~~~
 
 ## Output
+<img width="655" height="247" alt="image" src="https://github.com/user-attachments/assets/d019b7a9-b25e-408c-a514-4812f4d9fa2d" />
 
 ## Result
 Thus,the program has been executed successfully.

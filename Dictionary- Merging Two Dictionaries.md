@@ -18,6 +18,7 @@ merged_dict.update(dict2)
 print("Merged Dictionary:", merged_dict)
 ~~~
 ## Output
+<img width="826" height="322" alt="image" src="https://github.com/user-attachments/assets/cc9898b2-ab4c-4d7c-a406-2ec40e329cf4" />
 
 ## Result
 Thus, the program has been executed successfully.
